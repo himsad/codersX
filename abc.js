@@ -1,5 +1,8 @@
 varr index = 0;
 function abc(index){
 	index ++;
-	return index;
+	let ditme = 'ditmemayy';
+	let result = index + ditme
+	return result ;
+
 }
